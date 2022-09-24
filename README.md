@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm choqu !</h1>
-<h3 align="center">I am a French student, passionate about development</h3>
+<h1 align="center">Hey 👋, c'est moi, choqu !</h1>
+<h3 align="center">Un français qui code.</h3>
 
-- 🔭 I’m currently working on [Ao (discord bot)](https://zely.eu/me)
+- 🔭 Je suis acutellement en train de travailler sur [Ao (bot discord)](http://invite.zely.eu)
 
-- 🌱 I’m currently learning **reactnative, c++ and c#**
+- 🌱 Je suis actuellement en train d'apprendre le **reactnative and python**
 
-- 📫 How to reach me **septxis@zely.eu**
+- 📫 Pour me contacter **choqu@zely.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
