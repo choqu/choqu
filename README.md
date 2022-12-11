@@ -6,7 +6,7 @@
 <h3 align="left">Pour être en contact avec moi:</h3>
 <p align="left">
 <a href="https://codepen.io/chokuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chokuuu" height="30" width="40" /></a>
-<a href="https://twitter.com/septxis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="choqumulus" height="30" width="40" /></a>
+<a href="https://twitter.com/choq_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="choqumulus" height="30" width="40" /></a>
 <a href="https://discord.gg/wNZQm3cR6n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BG5V3kjQ3Q" height="30" width="40" /></a>
 </p>
 
