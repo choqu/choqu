@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, c'est moi, choqu !</h1>
 <h3 align="center">Un français qui code.</h3>
 
-- 🔭 Je suis acutellement en train de travailler sur [Ao (bot discord)](http://invite.zely.eu)
-
-- 🌱 Je suis actuellement en train d'apprendre le **reactnative and python**
-
 - 📫 Pour me contacter **choqu@zely.eu**
 
 <h3 align="left">Pour être en contact avec moi:</h3>
